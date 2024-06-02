@@ -10,3 +10,5 @@
 /* Adjusted column-gap for grid layout */
 
 /* Tweaked row heights for grid */
+
+.grid-container { column-gap: 25px; grid-auto-rows: minmax(100px, auto); }
